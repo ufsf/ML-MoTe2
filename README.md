@@ -5,3 +5,6 @@ The training and test datasets, calculated at the DFT SCAN level, are provided, 
 
 ## Extra Te monovacancies - KMC
 ![KMC-extra vacancy](https://github.com/user-attachments/assets/ad274b1b-7f43-4d61-a72b-d731f1ca5bd8)
+
+## MD
+![MD](https://github.com/user-attachments/assets/98dd8bc5-f2ea-4920-bb50-f5c8c7121ce8)
